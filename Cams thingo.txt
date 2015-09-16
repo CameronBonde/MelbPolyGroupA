@@ -1,3 +1,13 @@
 Cam is great
 
+<<<<<<< HEAD
+
+=======
+Added some stuff
+>>>>>>> origin/master
+
+
+
+
+
 There are 2 Cam's here. Which is the great one?
